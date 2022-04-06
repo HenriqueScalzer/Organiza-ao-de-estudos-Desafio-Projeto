@@ -1,2 +1,2 @@
-# Dio-desafio-github-primeiro-projeto
+# Organização de Estudos
 Desafio de Projeto GIT/GITHUB
